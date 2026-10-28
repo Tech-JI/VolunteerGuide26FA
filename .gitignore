@@ -1,0 +1,8 @@
+guide.tex
+Guide.pdf
+*.log
+*.aux
+*.nav
+*.out
+*.snm
+*.toc
